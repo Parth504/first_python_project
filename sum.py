@@ -20,7 +20,7 @@ for i in l2:
     num1=num1*10+i
 for i in l3:
     num2=num2*10+i
-#print(num1)23
+#print(num1)23456
 #print(num2)
 num=str(num1+num2)
 list3=[]
